@@ -1103,7 +1103,7 @@
                 originalPrice: 2200,
                 salePrice: "○○○",
                 discount: 50,
-                image: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Crect width='200' height='200' fill='%23cd853f'/%3E%3Ctext x='50%25' y='50%25' text-anchor='middle' dy='.3em' font-size='20' fill='%23fff'%3Eから揚げ%3C/text%3E%3C/svg%3E",
+                image: "https://imgcp.aacdn.jp/img-a/auto/auto/aa/gm/article/4/8/7/0/2/8/202103111020/800__topimg_original.jpeg",
                 expiryDate: "2025/07/20",
                 weight: 2.0,
                 description: "外はカリッと、中はジューシーな本格から揚げ。業務用サイズでお得です。",
