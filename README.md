@@ -1,5 +1,5 @@
-# cookdelivery
-<!DOCTYPE html>
+# Cook DeliverY
+<食卓に彩を>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
